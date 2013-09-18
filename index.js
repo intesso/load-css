@@ -1,4 +1,3 @@
-
 module.exports = function load (href, cb) {
   var head = document.head || document.getElementsByTagName('head')[0]
   var link = document.createElement('link')
