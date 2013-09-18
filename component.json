@@ -1,0 +1,14 @@
+{
+  "name": "load-css",
+  "repo": "intesso/load-css",
+  "description": "Dynamic linked css file loading",
+  "version": "0.0.2",
+  "keywords": [
+    "script",
+    "load"
+  ],
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
